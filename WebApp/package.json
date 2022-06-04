@@ -1,0 +1,11 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "This project is a demo of pure HTML/JavaScript/CSS version of tic tac toe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maximillian Machado",
+  "license": "ISC"
+}
