@@ -1,4 +1,3 @@
-from imghdr import tests
 import timeit
 
 mySetup = '''

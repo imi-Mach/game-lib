@@ -1,5 +1,5 @@
-from games.game import Game
-from games.tictactoe import TicTacToe
+from gamelib.games.game import Game
+from gamelib.games.tictactoe import TicTacToe
 
 # def tic_tac_toe(players=2,log=None,strat=None):
 #     pass
